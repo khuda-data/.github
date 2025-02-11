@@ -27,6 +27,9 @@ KHUDA는 팀원과 함께 **성장**하며, 본인의 한계를 **뛰어넘는**
 
 
 ---
+**KHUDA-6th _(24.07.24 ~ 24.11.27)_ 활동 내역**
+[<img src="https://img.shields.io/badge/Notion-02458D?style=flat&logo=Notion&logoColor=white"/>](https://boiled-stitch-a9a.notion.site/KHUDA-6th-AI-KHUDA-0a06a7da42a748a9b9ac3fa98646f61b?pvs=74) 
+
 **KHUDA-5th _(24.01.29 ~ 24.05.27)_ 활동 내역**
 [<img src="https://img.shields.io/badge/Notion-02458D?style=flat&logo=Notion&logoColor=white"/>](https://simple-board-99d.notion.site/c73b4ccb4b4f474198db0d931fa276fd?v=2c9c18f900eb40c0a3324a31a6cc1ef6) 
 
