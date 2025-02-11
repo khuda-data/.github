@@ -17,7 +17,7 @@ KHUDA는 팀원과 함께 **성장**하며, 본인의 한계를 **뛰어넘는**
 
 <div align=center>
 
-# Welcome to KHUDA 6th!
+# Welcome to KHUDA 7th!
 <br>
 
 ![KHUDA Logo](https://github.com/user-attachments/assets/7b28e1fe-02fa-481d-9315-960527ee3945)
