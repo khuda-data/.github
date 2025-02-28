@@ -12,7 +12,7 @@ KHUDA는 팀원과 함께 **성장**하며, 본인의 한계를 **뛰어넘는**
 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>](https://www.instagram.com/khu_da.official)
 [<img src="https://img.shields.io/badge/Github-000000?style=flat&logo=Github&logoColor=white"/>](https://github.com/khuda-data)
-[<img src="https://img.shields.io/badge/Notion-02458D?style=flat&logo=Notion&logoColor=white"/>](https://www.notion.so/c73b4ccb4b4f474198db0d931fa276fd?v=2c9c18f900eb40c0a3324a31a6cc1ef6
+[<img src="https://img.shields.io/badge/Notion-02458D?style=flat&logo=Notion&logoColor=white"/>](https://www.notion.so/KHUDA-7th-AI-KHUDA-17778008bf5880a7b78fe2c880a07b9f?pvs=4
 )
 
 <div align=center>
