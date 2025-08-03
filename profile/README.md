@@ -78,7 +78,7 @@
 
 ---
 
-## KHUDA 활동 내역
+## 📚 KHUDA 활동 내역
 
 <div align="center">
 
