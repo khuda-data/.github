@@ -38,81 +38,85 @@
 
 
 -->
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/7b28e1fe-02fa-481d-9315-960527ee3945" width="120" alt="KHUDA Logo"/>
-
-  # Kyung Hee University Data Analysis
-
-  **KHUDA**는 **K**yung **H**ee **U**niversity **D**ata **A**nalysis의 약자로,  
-  경희대학교 데이터 분석/AI 중앙동아리입니다.  
-  팀원과 함께 **성장**하며, 본인의 한계를 **뛰어넘는** 문화를 추구합니다.
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7b28e1fe-02fa-481d-9315-960527ee3945" width="140" alt="KHUDA Logo"/><br/>
+  <strong style="font-size:1.8em">Kyung Hee University Data Analysis</strong><br/>
+  <em>KHUDA는 Kyung Hee U. Data Analysis의 약자로, 경희대학교 데이터 분석·AI 중앙동아리입니다.</em><br/>
+  팀원과 함께 <strong>성장</strong>하며, 본인의 한계를 <strong>뛰어넘는</strong> 문화를 추구합니다.<br/><br/>
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/khu_da.official)
   [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=GitHub&logoColor=white)](https://github.com/khuda-data)
   [![Notion](https://img.shields.io/badge/Notion-02458D?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/KHUDA-8th-AI-KHUDA-236ca0f7fa4780aa889cc03ad5e02a97)
-</div>
+</p>
 
 ---
 
-## 🌀 KHUDA 8th
+## KHUDA 8th
 
 ---
 
 ## 🔥 Advanced Tracks (심화 트랙)
 
-KHUDA에서는 보다 심층적인 학습과 실전 프로젝트 경험을 제공하기 위해  
-**5개의 심화 트랙**을 운영합니다.
-
-<div align="center">
-  <!-- 배지(Shields.io)를 눌러 각 트랙 설명으로 바로 이동시키고 싶다면 href 안에 링크 추가 -->
+<p align="center">
+  <!-- 위아래로 작은 애니메이션 GIF를 넣어 역동감 부여 -->
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="60" alt="sparkle"/><br/><br/>
+  <!-- 트랙 배지 Row -->
   <img src="https://img.shields.io/badge/👁️_Computer_Vision-00BFFF?style=for-the-badge" alt="Computer Vision"/>
   <img src="https://img.shields.io/badge/💼_Data_Business-FF8C00?style=for-the-badge" alt="Data Business"/>
   <img src="https://img.shields.io/badge/🌐_Data_Engineering-228B22?style=for-the-badge" alt="Data Engineering"/>
   <img src="https://img.shields.io/badge/💵_Finance-DAA520?style=for-the-badge" alt="Finance"/>
   <img src="https://img.shields.io/badge/💬_NLP-8A2BE2?style=for-the-badge" alt="NLP"/>
-</div>
+</p>
 
 ---
 
 ### 👁️ Computer Vision  
-> 이미지/영상 데이터 분석, CNN 및 최신 Vision 모델 학습, 논문 발제
+> 이미지/영상 데이터 분석 · CNN & Vision 모델 · 논문 발제
 
 ---
 
 ### 💼 Data Business  
-> 비즈니스 인사이트 기반 데이터 분석 및 전략적 접근
+> 비즈니스 인사이트 · 데이터 전략적 분석
 
 ---
 
 ### 🌐 Data Engineering  
-> 데이터 수집, 파이프라인 구축, ETL, DB 설계 등 데이터 인프라 실무
+> 데이터 파이프라인 구축 · ETL · DB 설계
 
 ---
 
 ### 💵 Finance  
-> 금융 시장 데이터 분석, 리스크 모델링, 기술적 지표 기반 전략
+> 금융 데이터 분석 · 리스크 모델링 · 트레이딩 전략
 
 ---
 
 ### 💬 NLP  
-> 언어 모델, LLM, 딥러닝 기반 자연어처리 모델 구현 및 실습
+> 언어 모델 · LLM · 딥러닝 자연어처리
 
 ---
 
 <p align="center">
-  📌 [**자세한 내용은 Notion에서 확인하세요**](https://www.notion.so/KHUDA-8th-AI-KHUDA-236ca0f7fa4780aa889cc03ad5e02a97)
+  📌 <strong><a href="https://www.notion.so/KHUDA-8th-AI-KHUDA-236ca0f7fa4780aa889cc03ad5e02a97">Notion에서 더 자세히 보기</a></strong><br/><br/>
+  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" width="80" alt="down arrow"/>
 </p>
 
 ---
 
 ## 📚 KHUDA 활동 내역
 
-| 기수          | 활동 기간           | 링크   |
-|---------------|---------------------|--------|
-| **KHUDA-7th** | 25.03.04 ~ 25.07.09 | [🔗 Notion](https://www.notion.so/KHUDA-7th-AI-KHUDA-17778008bf5880a7b78fe2c880a07b9f?pvs=4) |
-| **KHUDA-6th** | 24.07.24 ~ 24.11.27 | [🔗 Notion](https://boiled-stitch-a9a.notion.site/KHUDA-6th-AI-KHUDA-0a06a7da42a748a9b9ac3fa98646f61b?pvs=74) |
-| **KHUDA-5th** | 24.01.29 ~ 24.05.27 | [🔗 Notion](https://simple-board-99d.notion.site/c73b4ccb4b4f474198db0d931fa276fd?v=2c9c18f900eb40c0a3324a31a6cc1ef6) |
-| **KHUDA-4th** | 23.07.28 ~ 23.12.06 | [🔗 Notion](https://khuda.notion.site/KHUDA-4th-AI-KHUDA-4-45e8834854dc4402b00b9622c3aa68ee?pvs=4) |
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/KHUDA--7th-25.03.04~25.07.09-blue?style=for-the-badge" alt="7th"/>  
+  [🔗 Notion](https://www.notion.so/KHUDA-7th-AI-KHUDA-17778008bf5880a7b78fe2c880a07b9f?pvs=4)
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/KHUDA--6th-24.07.24~24.11.27-blue?style=for-the-badge" alt="6th"/>  
+  [🔗 Notion](https://boiled-stitch-a9a.notion.site/KHUDA-6th-AI-KHUDA-0a06a7da42a748a9b9ac3fa98646f61b?pvs=74)
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/KHUDA--5th-24.01.29~24.05.27-blue?style=for-the-badge" alt="5th"/>  
+  [🔗 Notion](https://simple-board-99d.notion.site/c73b4ccb4b4f474198db0d931fa276fd?v=2c9c18f900eb40c0a3324a31a6cc1ef6)
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/KHUDA--4th-23.07.28~23.12.06-blue?style=for-the-badge" alt="4th"/>  
+  [🔗 Notion](https://khuda.notion.site/KHUDA-4th-AI-KHUDA-4-45e8834854dc4402b00b9622c3aa68ee?pvs=4)
+</p>
 
