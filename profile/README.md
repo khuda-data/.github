@@ -42,6 +42,8 @@
 
 <!-- KHUDA README.md -->
 
+<!-- KHUDA README.md -->
+
 <div align="center">
 
   <!-- Typing SVG Animation -->
@@ -51,7 +53,7 @@
   <br/>
   <img src="https://github.com/user-attachments/assets/7b28e1fe-02fa-481d-9315-960527ee3945" width="120" alt="KHUDA Logo" />
 
-  <!-- Gradient Banner -->
+  <!-- Gradient Capsule Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3778C2,100:000000&height=120&section=header&text=Kyung%20Hee%20University%20Data%20Analysis&fontColor=ffffff&fontSize=25&fontAlignY=40" />
 
   <p><strong>KHUDA</strong>는 <strong>K</strong>yung <strong>H</strong>ee <strong>U</strong>niversity <strong>D</strong>ata <strong>A</strong>nalysis의 약자로,  
@@ -65,16 +67,7 @@
 
 </div>
 
-<!-- Gradient Divider -->
-<hr style="height: 2px; background: linear-gradient(to right, #3778C2, #00B4DB, #6DD5FA, #ffffff); border: none; margin: 40px 0;" />
-
-<!-- 감성 문구 삽입 -->
-<div align="center">
-  <em><strong>“데이터로 세상을 이해하고, 기술로 함께 성장합니다.”</strong></em>
-</div>
-
-<!-- Gradient Divider -->
-<hr style="height: 2px; background: linear-gradient(to right, #ffffff, #6DD5FA, #00B4DB, #3778C2); border: none; margin: 40px 0;" />
+---
 
 ## 🔥 Advanced Tracks (심화 트랙)
 
@@ -108,6 +101,3 @@
 | <img src="https://img.shields.io/badge/KHUDA--4th-9932CC?style=for-the-badge&logo=notion&logoColor=white"/> | 2023.07.28 ~ 2023.12.06 | [🔗 Notion](https://khuda.notion.site/KHUDA-4th-AI-KHUDA-4-45e8834854dc4402b00b9622c3aa68ee?pvs=4) |
 
 </div>
-
-
-
