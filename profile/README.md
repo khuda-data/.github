@@ -73,8 +73,6 @@
 
 <div align="center">
 
-🚀 <strong>5개 트랙으로 실전 프로젝트 + 최신 트렌드를 모두 잡아보세요!</strong>
-
 | 트랙명 | 설명 |
 |:--:|:--|
 | **👁️ Computer Vision** | 이미지/영상 데이터 분석, CNN 및 최신 Vision 모델 학습, 논문 발제 |
