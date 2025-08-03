@@ -38,16 +38,25 @@
 
 
 -->
+<!-- KHUDA README.md -->
+
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/7b28e1fe-02fa-481d-9315-960527ee3945" width="140" alt="KHUDA Logo"/>
+  <!-- Typing SVG Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3778C2&width=435&lines=Hi+there+%F0%9F%91%8B+Welcome+to+KHUDA!" alt="Typing SVG" />
 
-  # Kyung Hee University Data Analysis
+  <!-- KHUDA Logo -->
+  <br/>
+  <img src="https://github.com/user-attachments/assets/7b28e1fe-02fa-481d-9315-960527ee3945" width="120" alt="KHUDA Logo" />
 
-  **KHUDA**는 **K**yung **H**ee **U**niversity **D**ata **A**nalysis의 약자로,  
+  <!-- Gradient Capsule Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3778C2,100:000000&height=120&section=header&text=Kyung%20Hee%20University%20Data%20Analysis&fontColor=ffffff&fontSize=25&fontAlignY=40" />
+
+  <p><strong>KHUDA</strong>는 <strong>K</strong>yung <strong>H</strong>ee <strong>U</strong>niversity <strong>D</strong>ata <strong>A</strong>nalysis의 약자로,  
   경희대학교 데이터 분석/AI 중앙동아리입니다.  
-  팀원과 함께 **성장**하며, 본인의 한계를 **뛰어넘는** 문화를 추구합니다.
+  팀원과 함께 <strong>성장</strong>하며, 본인의 한계를 <strong>뛰어넘는</strong> 문화를 추구합니다.</p>
 
+  <!-- Social Links -->
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/khu_da.official)
   [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=GitHub&logoColor=white)](https://github.com/khuda-data)
   [![Notion](https://img.shields.io/badge/Notion-02458D?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/KHUDA-8th-AI-KHUDA-236ca0f7fa4780aa889cc03ad5e02a97)
@@ -59,7 +68,7 @@
 ## 🔥 Advanced Tracks (심화 트랙)
 
 <div align="center">
-  
+
 | 트랙 | 설명 |
 |:--:|:--:|
 | <img src="https://img.shields.io/badge/👁️_Computer_Vision-00BFFF?style=for-the-badge"/> | 이미지/영상 데이터 분석, CNN 및 최신 Vision 모델 학습, 논문 발제 |
@@ -68,11 +77,7 @@
 | <img src="https://img.shields.io/badge/💵_Finance-DAA520?style=for-the-badge"/> | 금융 시장 데이터 분석, 리스크 모델링, 기술적 지표 기반 전략 |
 | <img src="https://img.shields.io/badge/💬_NLP-8A2BE2?style=for-the-badge"/> | 언어 모델, LLM, 딥러닝 기반 자연어처리 모델 구현 및 실습 |
 
-</div>
-
-<div align="center">
-  
-📌 [**자세한 내용은 Notion에서 확인하기**](https://www.notion.so/KHUDA-8th-AI-KHUDA-236ca0f7fa4780aa889cc03ad5e02a97)
+📌 <strong>[자세한 내용은 Notion에서 확인하기](https://www.notion.so/KHUDA-8th-AI-KHUDA-236ca0f7fa4780aa889cc03ad5e02a97)</strong>
 
 </div>
 
@@ -91,11 +96,4 @@
 
 </div>
 
----
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=khuda-data&color=brightgreen)
-
-</div>
 
