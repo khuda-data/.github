@@ -78,7 +78,7 @@
 | **👁️ Computer Vision** | 이미지/영상 데이터 분석, CNN 및 최신 Vision 모델 학습, 논문 발제 |
 | **💼 Data Business** | 비즈니스 인사이트 기반 데이터 분석 및 전략적 접근 |
 | **🌐 Data Engineering** | 데이터 수집, 파이프라인 구축, ETL, DB 설계 등 데이터 인프라 실무 |
-| **💵 Finance** | 금융 시장 데이터 분석, 리스크 모델링, 기술적 지표 기반 전략 |
+| **🤖 ML Full Course** | 머신러닝 기초(통계, 수학, 기본 알고리즘)부터 심화(딥러닝, 최신 ML 기법, 모델 최적화)까지 전반적인 흐름을 체계적으로 학습 |
 | **💬 NLP** | 언어 모델, LLM, 딥러닝 기반 자연어처리 모델 구현 및 실습 |
 
 📌 <strong>[자세한 내용은 Notion에서 확인하기](https://www.notion.so/KHUDA-8th-AI-KHUDA-236ca0f7fa4780aa889cc03ad5e02a97)</strong>
