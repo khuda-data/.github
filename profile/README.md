@@ -22,7 +22,8 @@
 
 | 기수 | 활동 기간 | 링크 |
 |:--:|:--:|:--:|
-| <img src="https://img.shields.io/badge/KHUDA--9th-00BFFF?style=for-the-badge&logo=notion&logoColor=white"/> | 진행 중 🔥 | [🔗 Notion](https://www.notion.so/KHUDA-9th-AI-KHUDA-2e561af7da2980dcb260c01d275318ad?source=copy_link) |
+| <img src="https://img.shields.io/badge/KHUDA--10th-87CEFA?style=for-the-badge&logo=notion&logoColor=white"/> | 진행 중 🔥 | [🔗 Notion](https://app.notion.com/p/KHUDA-10th-AI-39058204d56e80158c4bcb5663e771bd?source=copy_link) |
+| <img src="https://img.shields.io/badge/KHUDA--9th-00BFFF?style=for-the-badge&logo=notion&logoColor=white"/> | 2026.01.12 ~ 2026.07.08 | [🔗 Notion](https://www.notion.so/KHUDA-9th-AI-KHUDA-2e561af7da2980dcb260c01d275318ad?source=copy_link) |
 | <img src="https://img.shields.io/badge/KHUDA--8th-1E90FF?style=for-the-badge&logo=notion&logoColor=white"/> | 2025.07.21 ~ 2026.01.08 | [🔗 Notion](https://www.notion.so/KHUDA-8th-AI-KHUDA-236ca0f7fa4780aa889cc03ad5e02a97) |
 | <img src="https://img.shields.io/badge/KHUDA--7th-4169E1?style=for-the-badge&logo=notion&logoColor=white"/> | 2025.03.04 ~ 2025.07.09 | [🔗 Notion](https://www.notion.so/KHUDA-7th-AI-KHUDA-17778008bf5880a7b78fe2c880a07b9f?pvs=4) |
 | <img src="https://img.shields.io/badge/KHUDA--6th-27408B?style=for-the-badge&logo=notion&logoColor=white"/> | 2024.07.24 ~ 2024.11.27 | [🔗 Notion](https://boiled-stitch-a9a.notion.site/KHUDA-6th-AI-KHUDA-0a06a7da42a748a9b9ac3fa98646f61b?pvs=74) |
